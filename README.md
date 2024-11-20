@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Applications<br>👯 I’m looking to collaborate on any Android App Based projects<br><br>🌱 I’m currently learning Kotlin, Jetpack Compose<br><br>⚡ Fun fact I can also pain :)
+🔭 I’m currently working on Android Applications<br>👯 I’m looking to collaborate on any Android App Based projects<br><br>🌱 I’m currently learning Kotlin, Jetpack Compose<br><br>⚡ Fun fact I can also paint :)
 
 
 ## 🌐 Socials:
